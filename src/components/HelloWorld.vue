@@ -38,7 +38,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
           <a class="navbar-brand" href="index.html">
-            <img :src="images.logo" alt="">
+            <img :src="images['logo.png']" alt="My Image">
           </a>
           <div class="" id="">
             <div class="User_option">
