@@ -15,8 +15,8 @@ const routes = [
     component: AboutView // Use the imported AboutView component
   },
   {
-    path: '/management', 
-    name: 'management', 
+    path: '/manage', 
+    name: 'manage', 
     component: Manage
   }
 ]
